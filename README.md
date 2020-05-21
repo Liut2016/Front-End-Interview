@@ -2,7 +2,7 @@
 前端面试复习资料
 
 ### 综合复习
-- [牛客网-前端面试宝典](https://www.nowcoder.com/tutorial/96/24304825a0c04ea9a53cdb09cb664834)
+- [牛客网-前端面试宝典](https://www.nowcoder.com/tutorial/96/f5212664ab664984882b00635066ded2)
 - [前端实习或校招常见考点（精简版）](https://juejin.im/post/5e675ec8f265da57397e2ff4)
 - [写给女朋友的中级前端面试秘籍](https://juejin.im/post/5e7af0685188255dcf4a497e)
 - [写给初中级前端的高级进阶指南](https://zhuanlan.zhihu.com/p/117490792)
