@@ -3,6 +3,7 @@
 
 ### 综合复习
 - [牛客网-前端面试宝典](https://www.nowcoder.com/tutorial/96/f5212664ab664984882b00635066ded2)
+- [神三元-手写系列](http://47.98.159.95/my_blog/nav/)
 - [前端实习或校招常见考点（精简版）](https://juejin.im/post/5e675ec8f265da57397e2ff4)
 - [写给女朋友的中级前端面试秘籍](https://juejin.im/post/5e7af0685188255dcf4a497e)
 - [写给初中级前端的高级进阶指南](https://zhuanlan.zhihu.com/p/117490792)
@@ -44,7 +45,6 @@
 - [ES6入门教程](https://es6.ruanyifeng.com/)
 - [js面试高频题（含手写系列）](https://github.com/scofieldfan/turtle-rock)
 - [冴羽-JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
-- [神三元-手写系列](http://47.98.159.95/my_blog/nav/)
 - [Generator生成器全解析](https://juejin.im/post/5e16f3745188254c14016beb?from=groupmessage)
 - [JavaScript常见的六种继承方式](https://segmentfault.com/a/1190000016708006)
 - [深入理解JavaScript之作用域链与闭包](https://juejin.im/post/5e4f66d8e51d4526f76eb447?from=groupmessage)
