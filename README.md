@@ -33,7 +33,7 @@
 ### CSS
 - [常见CSS布局的实现](https://github.com/funnycoderstar/blog/issues/125)
 - [CSS布局指南](https://mp.weixin.qq.com/s?__biz=MzA4MDg4NDczMQ==&mid=2455539852&idx=2&sn=b4e84296cf32f83ca6ee2d5aa4eacdcf&chksm=88355618bf42df0e5f17414e5dc4e048dab93c41253a9149cdd0168aca9a182f942f3b0cf0e2&mpshare=1&scene=1&srcid=0421kmhrvvU4KquGF3sWvfO3&sharer_sharetime=1590050770037&sharer_shareid=51b4b716e56ee90453491a8b0ca14af0#rd)
-- [响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh](https://github.com/forthealllight/blog/issues/13)
+- [响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh)](https://github.com/forthealllight/blog/issues/13)
 - [Flex布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - [认真介绍CSS原理](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247485558&idx=1&sn=151e6354c9892e60e5e0dca4a8849749&chksm=9782c6ffa0f54fe9545bac05b3af0aace8a5597767ac6d433c697eba19cb4041bdbd47ca0e9a&mpshare=1&scene=1&srcid=&sharer_sharetime=1590049862457&sharer_shareid=51b4b716e56ee90453491a8b0ca14af0#rd)
 - [CSS渲染原理及优化策略](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247485308&idx=1&sn=9ddb365a857d1c5d1f93a8b45baebfd7&chksm=9782c9f5a0f540e3fc927212179fdee2b38d431a6c898d82a5f164b8e7b412bf37c7d6e94294&mpshare=1&scene=1&srcid=041718grPSXO4EgaXElMikOP&sharer_sharetime=1590051026478&sharer_shareid=51b4b716e56ee90453491a8b0ca14af0#rd)
