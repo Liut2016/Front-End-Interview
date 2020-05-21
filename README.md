@@ -1,5 +1,5 @@
 # Front-End-Interview
-前端面试资料
+前端面试复习资料
 
 ### 综合复习
 - [牛客网-前端面试宝典](https://www.nowcoder.com/tutorial/96/24304825a0c04ea9a53cdb09cb664834)
