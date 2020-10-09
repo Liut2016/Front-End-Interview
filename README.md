@@ -16,6 +16,7 @@
 
 ### 计算机网络/浏览器
 - [HTTP强缓存和协商缓存](https://segmentfault.com/a/1190000008956069)
+- [缓存（二）——浏览器缓存机制：强缓存、协商缓存](https://github.com/amandakelake/blog/issues/41)
 - [TCP重传、滑动窗口、流量控制、拥塞控制](https://www.nowcoder.com/discuss/414727)
 - [HTTP经典题](https://juejin.im/post/5ec28f40e51d453f8115be40)
 - [script加载和执行](https://mp.weixin.qq.com/s?__biz=MzU5NDM5MDg1Mw==&mid=2247484405&idx=1&sn=691dc2147d0bb6995d1cd7ae09ed949d&chksm=fe00b9dfc97730c9727fa199857eacb49026cd63cce876a146fb2fab3409affa2037ad4ee775&mpshare=1&scene=1&srcid=&sharer_sharetime=1590050039054&sharer_shareid=51b4b716e56ee90453491a8b0ca14af0#rd)
